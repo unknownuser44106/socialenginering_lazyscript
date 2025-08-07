@@ -40,8 +40,7 @@ phishing_lab/
 └── README.md
 
 yaml
-Copy
-Edit
+
 
 ---
 
@@ -69,13 +68,12 @@ Download Ngrok
 Get your free token from dashboard
 
 bash
-Copy
-Edit
+
+
 ngrok config add-authtoken <your-token-here>
 🖥️ 4. Run the Menu Launcher
 bash
-Copy
-Edit
+
 chmod +x menu_launcher.sh lazy_start.sh
 ./menu_launcher.sh
 Select a phishing template (Facebook, Instagram, Office365)
@@ -94,8 +92,8 @@ Log any captured credentials in real-time
 
 📊 Sample Output
 bash
-Copy
-Edit
+
+
 [*] Server running at: http://127.0.0.1:8080
 [*] Ngrok public link: https://xyz.ngrok.io
 [*] Waiting for credentials...
